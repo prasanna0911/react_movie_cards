@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react_bootstrap_movie_cards/static/css/main.d71cb709.css",
+    "main.js": "/react_bootstrap_movie_cards/static/js/main.93704f38.js",
+    "static/media/interstellar.jpg": "/react_bootstrap_movie_cards/static/media/interstellar.f500bcdbaacb1ee72487.jpg",
+    "static/media/batman.jpg": "/react_bootstrap_movie_cards/static/media/batman.0898133b914278bbd9f5.jpg",
+    "static/media/avengers.jpg": "/react_bootstrap_movie_cards/static/media/avengers.04203f65e173d97ac204.jpg",
+    "static/media/opprmheimer.jpg": "/react_bootstrap_movie_cards/static/media/opprmheimer.5192f81c0062477768cf.jpg",
+    "index.html": "/react_bootstrap_movie_cards/index.html",
+    "main.d71cb709.css.map": "/react_bootstrap_movie_cards/static/css/main.d71cb709.css.map",
+    "main.93704f38.js.map": "/react_bootstrap_movie_cards/static/js/main.93704f38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d71cb709.css",
+    "static/js/main.93704f38.js"
+  ]
+}
